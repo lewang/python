@@ -31,145 +31,145 @@ workflows:
 jobs:
   build1:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build2:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build3:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build4:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build5:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build6:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build7:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build8:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build9:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build10:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build11:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build12:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build13:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build14:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build15:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build16:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build17:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build18:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build19:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build20:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build21:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build22:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build23:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
   build24:
     macos:
-      xcode: 10.0.0
+      xcode: 10.1.0
     resource_class: 'large'
     steps:
       - checkout
