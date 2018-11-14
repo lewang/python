@@ -106,7 +106,7 @@ jobs:
       xcode: 10.0.0
     resource_class: 'large'
     steps:
-      -checkout
+      - checkout
   build14:
     macos:
       xcode: 10.0.0
