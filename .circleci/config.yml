@@ -4,9 +4,37 @@ workflows:
   regular_workflow:
     jobs:
       - 'build1'
+      - 'build2'
+      - 'build3'
+      - 'build4'
+      - 'build5'
 
 jobs:
   build1:
+    macos:
+      xcode: "9.4.1"
+    resource_class: 'large'
+    steps:
+      - checkout
+  build2:
+    macos:
+      xcode: "9.4.1"
+    resource_class: 'large'
+    steps:
+      - checkout
+  build3:
+    macos:
+      xcode: "9.4.1"
+    resource_class: 'large'
+    steps:
+      - checkout
+  build4:
+    macos:
+      xcode: "9.4.1"
+    resource_class: 'large'
+    steps:
+      - checkout
+  build5:
     macos:
       xcode: "9.4.1"
     resource_class: 'large'
