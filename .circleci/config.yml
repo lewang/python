@@ -27,6 +27,14 @@ workflows:
       - 'build22'
       - 'build23'
       - 'build24'
+      - 'build25'
+      - 'build26'
+      - 'build27'
+      - 'build28'
+      - 'build29'
+      - 'build30'
+      - 'build31'
+      - 'build32'
 
 jobs:
   build1:
@@ -168,6 +176,54 @@ jobs:
     steps:
       - checkout
   build24:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build25:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build26:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build27:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build28:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build29:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build30:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build31:
+    macos:
+      xcode: 10.1.0
+    resource_class: 'large'
+    steps:
+      - checkout
+  build32:
     macos:
       xcode: 10.1.0
     resource_class: 'large'
